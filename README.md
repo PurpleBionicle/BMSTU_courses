@@ -21,7 +21,7 @@
 
 <h3> Курсовая АСВТ </h3>
 
-| Ссылка               |                           https://github.com/PurpleBionicle/Database_system_security/tree/master/7sem                           |
+| Ссылка               |                          https://github.com/PurpleBionicle/Biometrics_on_microcontrollers                           |
 |----------------------|:-------------------------------------------------------------------------------------------------------:|
 | биометрия через IP-камерами | 
 
